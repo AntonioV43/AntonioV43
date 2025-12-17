@@ -37,8 +37,6 @@ I’m a software developer with a passion for building functional systems and im
 
 ---
 
----
-
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -56,14 +54,24 @@ I’m a software developer with a passion for building functional systems and im
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   </a>
+</p>
 
+---
+
+### 🎮 Game engine
+<p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" />
   </a>
+</p>
 
+---
+
+### 🎨 Art & Design
+<p align="left">
   <a href="https://www.aseprite.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/aseprite/000000" height="40" alt="aseprite" />
   </a>
